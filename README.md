@@ -29,7 +29,9 @@ Your feedback plays a pivotal role in enhancing this tutorial. Should you come a
 
 **Happy Learning! 🧠**
 
-🧠 Deep Learning Thesaurus
+
+##🧠 Deep Learning Thesaurus
+
 In the realm of deep learning, various terms and jargons are often used interchangeably. This thesaurus aims to provide clarity on these terms, offering synonyms and brief explanations to assist both newcomers and seasoned professionals in navigating the language of deep learning.
 
 1. Deep Learning
