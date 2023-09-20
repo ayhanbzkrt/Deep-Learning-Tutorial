@@ -29,67 +29,90 @@ Your feedback plays a pivotal role in enhancing this tutorial. Should you come a
 
 **Happy Learning! 🧠**
 
-🧠 Deep Learning Thesaurus
-Table of Contents
-Deep Learning
-Synonyms
-Brief
-Activation Function
-Synonyms
-Brief
-Backpropagation
-Synonyms
-Brief
-Convolutional Neural Network (CNN)
-Synonyms
-Brief
-Recurrent Neural Network (RNN)
-Synonyms
-Brief
-Long Short-Term Memory (LSTM)
-Synonyms
-Brief
-Deep Learning
-Synonyms for Deep Learning
-Neural networks
-Artificial neural networks (ANN)
-Deep architectures
-Brief on Deep Learning
+
+
+# 🧠 **Deep Learning Thesaurus**
+
+## Table of Contents
+- [Deep Learning](#deep-learning)
+  - [Synonyms](#synonyms-for-deep-learning)
+  - [Brief](#brief-on-deep-learning)
+- [Activation Function](#activation-function)
+  - [Synonyms](#synonyms-for-activation-function)
+  - [Brief](#brief-on-activation-function)
+- [Backpropagation](#backpropagation)
+  - [Synonyms](#synonyms-for-backpropagation)
+  - [Brief](#brief-on-backpropagation)
+- [Convolutional Neural Network (CNN)](#convolutional-neural-network-cnn)
+  - [Synonyms](#synonyms-for-cnn)
+  - [Brief](#brief-on-cnn)
+- [Recurrent Neural Network (RNN)](#recurrent-neural-network-rnn)
+  - [Synonyms](#synonyms-for-rnn)
+  - [Brief](#brief-on-rnn)
+- [Long Short-Term Memory (LSTM)](#long-short-term-memory-lstm)
+  - [Synonyms](#synonyms-for-lstm)
+  - [Brief](#brief-on-lstm)
+
+---
+
+## Deep Learning
+### Synonyms for Deep Learning
+- Neural networks
+- Artificial neural networks (ANN)
+- Deep architectures
+
+### Brief on Deep Learning
 A subset of machine learning, deep learning employs multi-layered neural networks inspired by the human brain to model data.
 
-Activation Function
-Synonyms for Activation Function
-Transfer function
-Activation
-Non-linearity
-Brief on Activation Function
+---
+
+## Activation Function
+### Synonyms for Activation Function
+- Transfer function
+- Activation
+- Non-linearity
+
+### Brief on Activation Function
 It introduces non-linearity in neural networks, enabling them to learn intricate data patterns.
 
-Backpropagation
-Synonyms for Backpropagation
-Backward propagation of errors
-Delta rule
-Gradient descent optimization
-Brief on Backpropagation
+---
+
+## Backpropagation
+### Synonyms for Backpropagation
+- Backward propagation of errors
+- Delta rule
+- Gradient descent optimization
+
+### Brief on Backpropagation
 An algorithm that adjusts neural network weights to minimize prediction errors.
 
-Convolutional Neural Network (CNN)
-Synonyms for CNN
-ConvNet
-Shift invariant or space invariant artificial neural network (SIANN)
-Brief on CNN
+---
+
+## Convolutional Neural Network (CNN)
+### Synonyms for CNN
+- ConvNet
+- Shift invariant or space invariant artificial neural network (SIANN)
+
+### Brief on CNN
 A deep learning variant primarily for visual imagery analysis using convolutional layers.
 
-Recurrent Neural Network (RNN)
-Synonyms for RNN
-Cyclic network
-Sequence model
-Brief on RNN
+---
+
+## Recurrent Neural Network (RNN)
+### Synonyms for RNN
+- Cyclic network
+- Sequence model
+
+### Brief on RNN
 Neural networks with memory capabilities, making them apt for sequential data processing.
 
-Long Short-Term Memory (LSTM)
-Synonyms for LSTM
-Memory cell
-Gated recurrent unit (related, but not a direct synonym)
-Brief on LSTM
+---
+
+## Long Short-Term Memory (LSTM)
+### Synonyms for LSTM
+- Memory cell
+- Gated recurrent unit (related, but not a direct synonym)
+
+### Brief on LSTM
 An RNN type less prone to the vanishing gradient problem, capable of learning across long sequences.
+
